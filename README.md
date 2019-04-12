@@ -15,3 +15,6 @@ As stated abovem ths main
 This is a simple web project deployment
 
 ## How to contribute
+
+## Copyright
+cccc
