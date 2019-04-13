@@ -1,3 +1,4 @@
 log/
 test.txt
 .DS_Stores
+*.orig
